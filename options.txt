@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -30,7 +30,7 @@ glintSpeed:0.5
 glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
-gamma:0.5
+gamma:0.0
 renderDistance:8
 simulationDistance:8
 entityDistanceScaling:1.0
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","file/ClassicCraft","file/AHM v1.20 OG.zip","classic_icons","file/Broken Script"]
+resourcePacks:["vanilla","mod_resources","file/ClassicCraft","classic_icons","file/Broken Script"]
 incompatibleResourcePacks:[]
 lastServer:26.90.136.230
 lang:ru_ru
@@ -142,8 +142,8 @@ key_key.nostalgic_tweaks.next_song:key.keyboard.unknown
 key_chunkloaders.keys.open_screen:key.keyboard.c
 key_key.thebrokenscript.tabpress:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
-soundCategory_master:0.7533112582781457
-soundCategory_music:0.2007042253521127
+soundCategory_master:1.0
+soundCategory_music:0.2147887323943662
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
