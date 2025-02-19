@@ -1,4 +1,4 @@
-*
+*/
 !/config
 !/datapacks
 !/mods
@@ -6,3 +6,8 @@
 !/shaderpacks
 !.gitignore
 !options.txt
+emi.json
+servers.dat
+servers.dat_old
+usercache.json
+usernamecache.json
