@@ -1,0 +1,19 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "pack_overrides": {
+    "1": [
+      "black_icons",
+      "create:legacy_copper",
+      "high_contrast",
+      "mod/subtle_effects:resourcepacks/biome_color_water_particles",
+      "mod_resources",
+      "programmer_art",
+      "classic_icons",
+      "white_icons"
+      ],
+    "$$1": {
+      "hidden": true
+    }
+  }
+}
